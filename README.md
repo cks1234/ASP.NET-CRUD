@@ -12,7 +12,7 @@ A simple movie list application built with ASP.NET, featuring basic CRUD (Create
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/cks1234/.NET-CRUD.git
+   git clone https://github.com/cks1234/ASP.NET-CRUD.git
    
 2. cd movielist-app
 
